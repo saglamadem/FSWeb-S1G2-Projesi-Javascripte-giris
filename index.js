@@ -54,7 +54,7 @@ Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:
 
 function carpma(sayi1, sayi2) {
   /*buraya kodunu yazabilirsin*/
-return sayi1 * sayi2;
+return sayi1 * sayi2; 
 
 }
 
