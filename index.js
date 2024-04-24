@@ -44,7 +44,7 @@ Aşağıdakileri yap:
 */
 
 /*
-Görev 1d - Çarpma
+Görev 1d - Çarpma hh
  
 Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:   
    1. 2 argüman alsın(a ve b olarak tanımlayabilirsin)
